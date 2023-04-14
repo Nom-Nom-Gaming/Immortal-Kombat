@@ -49,7 +49,7 @@ public class Main extends StateBasedGame
 			appgc.setTargetFrameRate(FRAMES_PER_SECOND);
 			appgc.start();
 			appgc.setVSync(true);
-
+			
 		} 
 		catch (SlickException e) 
 		{
